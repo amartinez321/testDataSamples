@@ -19,7 +19,7 @@
 		],
 		"talentStatus": {
 			"id": 1,
-			"talentStatus": "Freelance"
+			"status": "Freelance"
 		}
 	},
 	{
@@ -39,7 +39,7 @@
 		],
 		"talentStatus": {
 			"id": 1,
-			"talentStatus": "Freelance"
+			"status": "Freelance"
 		}
 	},
 	{
