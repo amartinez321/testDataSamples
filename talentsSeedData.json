@@ -2,23 +2,65 @@
 	{
 		"talentId": 1,
 		"fullName": "Max Mustermann",
-		"status": "Freelance",
 		"imageUrl": "images/mock-talent/amaro.webp",
-		"specialties" :["Payments", "Checkout", "Elements" ]
+		"specialties" : [
+			{
+				"id": 1,
+				"specialty": "Payments"
+			},
+			{
+				"id": 2,
+				"specialty": "Checkout"
+			},
+			{
+				"id": 3,
+				"specialty": "Elements"
+			}
+		],
+		"talentStatus": {
+			"id": 1,
+			"talentStatus": "Freelance"
+		}
 	},
 	{
 		"talentId": 2,
 		"fullName": "Sandro Tavares",
 		"status": "Freelance",
 		"imageUrl": "images/mock-talent/martinez.webp",
-		"specialties" :["Billing", "Invoicing" ]
+		"specialties" : [
+			{
+				"id": 5,
+				"specialty": "Billing"
+			},
+			{
+				"id": 4,
+				"specialty": "Invoicing"
+			}
+		],
+		"talentStatus": {
+			"id": 1,
+			"talentStatus": "Freelance"
+		}
 	},
 	{
 		"talentId": 3,
 		"fullName": "Heracles Gabidos",
 		"status": "Freelance",
 		"imageUrl": "images/mock-talent/jose.webp",
-		"specialties" :["Connect", "Elements", "Invoicing" ]
+		"specialties" : [
+			{
+				"id": 6,
+				"specialty": "Connect"
+			},
+			{
+				"id": 4,
+				"specialty": "Invoicing"
+			}
+		],
+		"talentStatus": {
+			"id": 1,
+			"talentStatus": "Freelance"
+		}
 	},
 
 	{
@@ -26,8 +68,16 @@
 		"fullName": "Luca Kakabade",
 		"status": "Freelance",
 		"imageUrl": "images/mock-talent/danny.webp",
-		"specialties" :["PaymentLinks"]
+		"specialties" : [
+			{
+				"id": 7,
+				"specialty": "PaymentLinks"
+			}
+		],
+		"talentStatus": {
+			"id": 1,
+			"talentStatus": "Freelance"
+		}
 	}			
 
 ]
-
