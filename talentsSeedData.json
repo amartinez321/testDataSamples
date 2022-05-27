@@ -25,7 +25,6 @@
 	{
 		"talentId": 2,
 		"fullName": "Sandro Tavares",
-		"status": "Freelance",
 		"imageUrl": "images/mock-talent/martinez.webp",
 		"specialties" : [
 			{
@@ -45,7 +44,6 @@
 	{
 		"talentId": 3,
 		"fullName": "Heracles Gabidos",
-		"status": "Freelance",
 		"imageUrl": "images/mock-talent/jose.webp",
 		"specialties" : [
 			{
@@ -66,7 +64,6 @@
 	{
 		"talentId": 4,
 		"fullName": "Luca Kakabade",
-		"status": "Freelance",
 		"imageUrl": "images/mock-talent/danny.webp",
 		"specialties" : [
 			{
