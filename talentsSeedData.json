@@ -51,7 +51,11 @@
 		"talentStatus": {
 			"id": 2,
 			"status": "Employed"
-		}
+		},
+		"country": {
+				"countryId": 1,
+				"countryName": "EEUU"
+			}
 	},
 	{
 		"talentId": 2,
@@ -101,7 +105,11 @@
 		"talentStatus": {
 			"id": 1,
 			"status": "Freelance"
-		}
+		},
+		"country": {
+				"countryId": 3,
+				"countryName": "Colombia"
+			}
 	},
 	{
 		"talentId": 3,
@@ -135,7 +143,11 @@
 		"talentStatus": {
 			"id": 1,
 			"talentStatus": "Freelance"
-		}
+		},
+		"country": {
+				"countryId": 2,
+				"countryName": "Puerto Rico"
+			}
 	},
 
 	{
@@ -170,7 +182,11 @@
 		"talentStatus": {
 			"id": 1,
 			"talentStatus": "Freelance"
-		}
+		},
+		"country": {
+				"countryId": 1,
+				"countryName": "EEUU"
+			}
 	}
 
 ]
