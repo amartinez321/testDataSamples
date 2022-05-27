@@ -3,38 +3,100 @@
 		"talentId": 1,
 		"fullName": "Max Mustermann",
 		"imageUrl": "images/mock-talent/amaro.webp",
-		"specialties" : [
+		"yearsOfExperience": {
+			"yearsOfExperienceOptionId": 1,
+			"yearsOfExperience": "> 10 years"
+		},
+		"languages": [{
+				"languageOptionId": 1,
+				"languageOptionName": "C#"
+			},
 			{
+				"languageOptionId": 2,
+				"languageOptionName": "Python"
+			}
+
+		],
+		"specialties": [{
 				"id": 1,
-				"specialty": "Payments"
+				"specialty": "Designer"
 			},
 			{
 				"id": 2,
-				"specialty": "Checkout"
+				"specialty": "Backend Developer"
 			},
 			{
 				"id": 3,
-				"specialty": "Elements"
+				"specialty": "Frontend Developer"
 			}
 		],
+		"focusAreas": [{
+				"focusAreaOptionId": 1,
+				"focusAreaOptionName": "Payments"
+			},
+			{
+				"focusAreaOptionId": 2,
+				"focusAreaOptionName": "Checkout"
+			},
+			{
+				"focusAreaOptionId": 3,
+				"focusAreaOptionName": "Elements"
+			},
+			{
+				"focusAreaOptionId": 4,
+				"focusAreaOptionName": "PaymentLinks"
+			}
+
+		],
 		"talentStatus": {
-			"id": 1,
-			"status": "Freelance"
+			"id": 2,
+			"status": "Employed"
 		}
 	},
 	{
 		"talentId": 2,
 		"fullName": "Sandro Tavares",
 		"imageUrl": "images/mock-talent/martinez.webp",
-		"specialties" : [
-			{
-				"id": 5,
-				"specialty": "Billing"
+		"yearsOfExperience": {
+			"yearsOfExperienceOptionId": 2,
+			"yearsOfExperience": "6-10 years"
+		},
+		"languages": [{
+				"languageOptionId": 1,
+				"languageOptionName": "C#"
 			},
 			{
-				"id": 4,
-				"specialty": "Invoicing"
+				"languageOptionId": 3,
+				"languageOptionName": "Javascript"
 			}
+
+		],
+		"specialties": [{
+				"id": 1,
+				"specialty": "Designer"
+			},
+			{
+				"id": 3,
+				"specialty": "Frontend Developer"
+			}
+		],
+		"focusAreas": [{
+				"focusAreaOptionId": 1,
+				"focusAreaOptionName": "Payments"
+			},
+			{
+				"focusAreaOptionId": 2,
+				"focusAreaOptionName": "Checkout"
+			},
+			{
+				"focusAreaOptionId": 5,
+				"focusAreaOptionName": "Connect"
+			},
+			{
+				"focusAreaOptionId": 6,
+				"focusAreaOptionName": "Invoicing"
+			}
+
 		],
 		"talentStatus": {
 			"id": 1,
@@ -45,15 +107,30 @@
 		"talentId": 3,
 		"fullName": "Heracles Gabidos",
 		"imageUrl": "images/mock-talent/jose.webp",
-		"specialties" : [
-			{
-				"id": 6,
-				"specialty": "Connect"
+		"yearsOfExperience": {
+			"yearsOfExperienceOptionId": 3,
+			"yearsOfExperience": "3-5 years"
+		},
+		"languages": [{
+				"languageOptionId": 1,
+				"languageOptionName": "C#"
+			}
+
+		],
+		"specialties": [{
+				"id": 1,
+				"specialty": "Designer"
 			},
 			{
-				"id": 4,
-				"specialty": "Invoicing"
+				"id": 2,
+				"specialty": "Backend Developer"
 			}
+		],
+		"focusAreas": [{
+				"focusAreaOptionId": 6,
+				"focusAreaOptionName": "Invoicing"
+			}
+
 		],
 		"talentStatus": {
 			"id": 1,
@@ -65,16 +142,35 @@
 		"talentId": 4,
 		"fullName": "Luca Kakabade",
 		"imageUrl": "images/mock-talent/danny.webp",
-		"specialties" : [
-			{
-				"id": 7,
-				"specialty": "PaymentLinks"
+		"yearsOfExperience": {
+			"yearsOfExperienceOptionId": 2,
+			"yearsOfExperience": "6-10 years"
+		},
+		"languages": [{
+				"languageOptionId": 3,
+				"languageOptionName": "Javascript"
 			}
+
+		],
+		"specialties": [{
+				"id": 1,
+				"specialty": "Designer"
+			},
+			{
+				"id": 3,
+				"specialty": "Frontend Developer"
+			}
+		],
+		"focusAreas": [{
+				"focusAreaOptionId": 10,
+				"focusAreaOptionName": "Sigma"
+			}
+
 		],
 		"talentStatus": {
 			"id": 1,
 			"talentStatus": "Freelance"
 		}
-	}			
+	}
 
 ]
