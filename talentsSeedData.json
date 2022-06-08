@@ -17,7 +17,7 @@
 			}
 
 		],
-		"specialties": [{
+		"industries": [{
 				"id": 1,
 				"specialty": "Designer"
 			},
@@ -75,7 +75,7 @@
 			}
 
 		],
-		"specialties": [{
+		"industries": [{
 				"id": 1,
 				"specialty": "Designer"
 			},
@@ -125,7 +125,7 @@
 			}
 
 		],
-		"specialties": [{
+		"industries": [{
 				"id": 1,
 				"specialty": "Designer"
 			},
@@ -164,7 +164,7 @@
 			}
 
 		],
-		"specialties": [{
+		"industries": [{
 				"id": 1,
 				"specialty": "Designer"
 			},
