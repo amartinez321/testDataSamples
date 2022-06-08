@@ -48,9 +48,9 @@
 			}
 
 		],
-		"talentStatus": {
-			"id": 2,
-			"status": "Employed"
+		"availability": {
+			"PartTime": true,
+			"FullTime": true
 		},
 		"country": {
 				"countryId": 1,
@@ -102,9 +102,9 @@
 			}
 
 		],
-		"talentStatus": {
-			"id": 1,
-			"status": "Freelance"
+		"availability": {
+			"PartTime": false,
+			"FullTime": true
 		},
 		"country": {
 				"countryId": 3,
@@ -140,9 +140,9 @@
 			}
 
 		],
-		"talentStatus": {
-			"id": 1,
-			"talentStatus": "Freelance"
+		"availability": {
+			"PartTime": true,
+			"FullTime": false
 		},
 		"country": {
 				"countryId": 2,
@@ -179,9 +179,9 @@
 			}
 
 		],
-		"talentStatus": {
-			"id": 1,
-			"talentStatus": "Freelance"
+		"availability": {
+			"PartTime": true,
+			"FullTime": true
 		},
 		"country": {
 				"countryId": 1,
